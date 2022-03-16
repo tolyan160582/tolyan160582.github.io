@@ -1,0 +1,12 @@
+.header { 
+    background: #F0BA7D;
+    width: 25%;
+    font-size: 2em;
+   }
+   .sticky{
+       position: sticky;
+       top:0;
+       font-size: large;
+       background-color: aqua;
+       height: 200px;
+   }
