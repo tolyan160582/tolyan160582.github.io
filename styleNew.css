@@ -1,6 +1,6 @@
 .header { 
     background: #F0BA7D;
-    width: 25%;
+    width: 100%;
     font-size: 2em;
    }
    .sticky{
@@ -8,5 +8,7 @@
        top:0;
        font-size: large;
        background-color: aqua;
-       height: 200px;
+       height: 50px;
+       text-align: center;
+       padding-top:10px;
    }

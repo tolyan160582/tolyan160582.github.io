@@ -1,0 +1,42 @@
+table,tr,th,td{
+    width: 50%;
+    border:1px solid red;
+    padding: 15px;
+    border-spacing: 5px;
+    border-collapse: collapse;
+    color: bisque;
+}
+colgroup{
+    background-color: blue;
+}
+caption{
+    color: blue;
+}
+ol{
+    width: 200px;
+    border: 1px dashed greenyellow;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+
+}
+li{
+    float: left;
+    display: block;
+}
+.blue{
+    background-color: blue;
+    width: 400px;
+}
+.borderGreen{
+    border: 2px dashed green;
+    font-size: 2em;
+}
+div{
+    width: 50%;
+}
+iframe{
+    width: 50%;
+    height: 200px;
+    border: none;
+}
